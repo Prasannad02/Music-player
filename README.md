@@ -15,7 +15,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Music-Player/
+    https://prasannad02.github.io/Music-player/
     
 ## Getting Started
 
